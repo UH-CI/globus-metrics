@@ -8,7 +8,7 @@ Options:
 		globus usage tranger file name
 
 	-o CHARACTER, --out=CHARACTER
-		output file name [default= out.xslx]
+		output file name [default= out.xlsx]
 
 	-s CHARACTER, --start=CHARACTER
 		the start date for globus transfers for the report (YYYY-MM-DD)
